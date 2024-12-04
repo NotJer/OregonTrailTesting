@@ -1,3 +1,20 @@
+# Oregon Trail Clone Testing Project
+
+This project involves testing a clone of the popular 90's computer game, Oregon Trail, using C#. The testing includes unit tests, integration tests, and end-to-end (E2E) tests to ensure the functionality and reliability of the game.
+
+## Project Overview
+
+The goal of this project is to create a robust testing suite for the Oregon Trail clone. The tests cover various aspects of the game, including events, entities, and game mechanics. The testing framework used is xUnit, and we also utilized NSubstitute for mocking dependencies.
+
+## Key Features
+
+- **Unit Tests**: Verify the functionality of individual components.
+- **Integration Tests**: Ensure that different parts of the application work together correctly.
+- **End-to-End Tests**: Test the complete flow of the application from start to finish.
+- **Mocking with NSubstitute**: Used for creating mock objects to simulate dependencies in tests.
+
+
+
 # Oregon Trail Clone #
 
 Clone of popular 90's computer game for C#.
